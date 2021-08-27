@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.loginPage{
+	background-color: lightgray;
+}
+.login_form{
+	align-content: center;
+}
+.content{
+	border: 1px solid black;
+	position: relative;
+	max-width: 600px;
+ 	 margin: auto;
+ 	 top:50px;
+}
+label{
+	width: 100px;
+	padding: 2px 0px 0px 20px;
+	
+	float: left;
+	text-transform: uppercase;
+}
+
+ul{
+	list-style-type: none;
+	list-style-position: outside;
+	
+}
+li{
+	padding: 10px 15px;
+	position: relative;
+}
+input {
+	width: 200px;
+}
+ .dugme_input{
+	border:1px solid black;
+	position: absolute;
+	width: 150px;
+	right: 250px;
+}
+
+
+
+
+h1{
+	text-align: center;
+	color: darkgreen;
+}

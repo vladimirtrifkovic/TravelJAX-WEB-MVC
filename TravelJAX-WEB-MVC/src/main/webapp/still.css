@@ -1,0 +1,67 @@
+@charset "UTF-8";
+input{
+	color: darkgreen;
+	font-family: monospace;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+label{
+	width: 220px;
+	padding: 2px 0px 2px 20px;
+	font-family: monospace;
+	color: darkgreen;
+	float: left;
+	text-transform: uppercase;
+	text-align: left;
+	
+	}
+select{
+	color: darkgreen;
+	font-family: monospace;
+	width: 170px;
+	padding: 2px 0px 2px 20px;
+	}	
+	
+ul{
+	width: 500px;
+	list-style-type: none;
+	list-style-position: outside;
+	/*margin: 0px;*/
+	padding: 10px;
+}
+h1{
+	text-align: center;
+	color: darkgreen;
+	font-family: monospace
+}
+ option{
+ 	color: darkgreen;
+	font-family: monospace;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+ }
+#izobr{
+	color: darkgreen;
+	font-family: monospace;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+
+ li{
+	padding: 10px 14px;
+	border-bottom: 1px solid #ddd;
+	position: relative;
+}
+.radioB{
+	border: 1px solid black;
+}
+form{
+	font-size: 15px;
+}
+.content{
+	max-width: 700px;
+ 	 margin: auto;
+}
+body{
+	background-color: lightgray;
+}
